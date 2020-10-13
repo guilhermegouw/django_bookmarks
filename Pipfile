@@ -10,6 +10,7 @@ django = "*"
 python-decouple = "*"
 dj-database-url = "*"
 dj-static = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"
