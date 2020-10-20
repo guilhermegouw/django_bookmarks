@@ -12,6 +12,9 @@ dj-database-url = "*"
 dj-static = "*"
 pillow = "*"
 social-auth-app-django = "*"
+django-extensions = "*"
+werkzeug = "*"
+pyopenssl = "*"
 
 [requires]
 python_version = "3.7"
