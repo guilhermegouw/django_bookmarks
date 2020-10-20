@@ -11,10 +11,13 @@ python-decouple = "*"
 dj-database-url = "*"
 dj-static = "*"
 pillow = "*"
+<<<<<<< HEAD
 social-auth-app-django = "*"
 django-extensions = "*"
 werkzeug = "*"
 pyopenssl = "*"
+=======
+>>>>>>> parent of c36729a... prepared infra to social_auth.
 
 [requires]
 python_version = "3.7"
